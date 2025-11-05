@@ -1,5 +1,5 @@
-title: Filipe Loyola Lopes, PhD 
+title: Ethos Audio Transcriber
 description: Data Science. Data-centric Artificial Intelligence. Healthcare Data.
-show_downloads: false
+show_downloads: true
 google_analytics: G-F1ZJEV5JDL
-theme: jekyll-theme-slate
+theme: - jekyll-remote-theme # add this line to the plugins list if you already have one
