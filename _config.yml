@@ -1,6 +1,6 @@
 title: Ethos Audio Transcriber
 description: Data Science. Data-centric Artificial Intelligence. Healthcare Data.
-show_downloads: true
+show_downloads: false
 google_analytics: G-F1ZJEV5JDL
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
