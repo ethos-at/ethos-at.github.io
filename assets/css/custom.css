@@ -1,0 +1,37 @@
+/* Botões */
+.btn-container {
+  display: flex;
+  justify-content: flex-end; /* alinha à direita */
+  gap: 10px; /* espaço entre os botões */
+  flex-wrap: wrap; /* quebra linha em telas pequenas */
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #485661; /* azul elegante */
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #00192b;
+}
+
+/* Rodapé com créditos */
+.footer-credit {
+  text-align: center;
+  color: #aaa;
+  font-size: 0.8em;
+  margin-top: 50px;
+}
+
+
+
+/* Esconde o crédito automático do Midnight */
+body > p:first-of-type {
+  display: none !important;
+}

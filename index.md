@@ -1,31 +1,27 @@
-<style>
-.btn-container {
-  display: flex;
-  justify-content: flex-end; /* alinha à direita */
-  gap: 10px; /* espaço entre os botões */
-  margin-bottom: 20px;
-}
+---
+layout: default
+title: Início
+---
 
-.btn {
-  background-color: #0078D7; /* azul elegante */
-  color: white;
-  padding: 10px 16px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: background 0.3s ease;
-}
+<link rel="stylesheet" href="/assets/css/custom.css">
 
-.btn:hover {
-  background-color: #005fa3;
-}
-</style>
-
+<!-- Botões principais -->
 <div class="btn-container">
-  <a href="/sobre.html" class="btn">Sobre</a>
-  <a href="/contato.html" class="btn">Contato</a>
+  <a href="/sobre.html" class="btn">Home</a>
+  <a href="/contato.html" class="btn">About</a>
+  <a href="/download.html" class="btn">Download</a>
+  <a href="/documentacao.html" class="btn">Documentation</a>
+  <a href="/publicacao.html" class="btn">Publication</a>
+  <a href="/contato.html" class="btn">Contact</a>
 </div>
 
 # Bem-vindo ao meu site!
 
 Este é o início do site do projeto **Ethos-AT** 🎯
+
+Aqui você pode encontrar informações sobre o projeto, acessar documentação e baixar o software.
+
+<!-- Rodapé com créditos -->
+<div class="footer-credit">
+Project maintained by <a href="https://github.com/ethos-at">ethos-at</a> — Hosted on GitHub Pages — Theme by mattgraham
+</div>

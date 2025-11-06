@@ -1,5 +1,21 @@
 title: Ethos AT
-description: Audio transcriber program powered by AI.
+description: Audio transcriber program powered by AI
 show_downloads: false
 google_analytics: G-F1ZJEV5JDL
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
+include:
+  - assets/css
+
+# Available themes:
+# jekyll-theme-cayman
+# jekyll-theme-minimal
+# jekyll-theme-slate - Interessante
+# jekyll-theme-time-machine
+# jekyll-theme-merlot
+# jekyll-theme-architect
+# jekyll-theme-dinky
+# jekyll-theme-hacker - Interessante
+# jekyll-theme-leap-day
+# jekyll-theme-midnight - Interessante
+# jekyll-theme-modernist
+# jekyll-theme-tactile - Interessante
