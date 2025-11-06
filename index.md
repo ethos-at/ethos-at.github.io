@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Início
+title: Ethos AT
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">

@@ -2,7 +2,7 @@ title: Ethos AT
 description: Audio transcriber program powered by AI
 show_downloads: false
 google_analytics: G-F1ZJEV5JDL
-theme: jekyll-theme-hacker
+theme: jekyll-theme-primer
 include:
   - assets/css
 
