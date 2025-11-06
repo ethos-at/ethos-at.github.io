@@ -1,10 +1,22 @@
 title: Ethos AT
 description: Audio transcriber program powered by AI
 show_downloads: false
-google_analytics: G-F1ZJEV5JDL
-theme: jekyll-theme-primer
-include:
-  - assets/css
+#google_analytics: G-F1ZJEV5JDL
+#theme: jekyll-theme-primer # Para rodar no GitHub Pages
+remote_theme: pages-themes/primer # Para rodar local
+#include:
+#  - assets/css
+
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+
+# Desativa o carregamento automático de metadados do GitHub
+github: {}
+
+
 
 # Available themes:
 # jekyll-theme-cayman

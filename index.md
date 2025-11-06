@@ -3,6 +3,11 @@ layout: default
 title: Ethos AT
 ---
 
+{% comment %}
+<h1>{{ site.title }}</h1>
+<p>{{ site.description }}</p>
+{% endcomment %}
+
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 <!-- Botões principais -->
@@ -15,9 +20,9 @@ title: Ethos AT
   <a href="/contato.html" class="btn">Contact</a>
 </div>
 
-# Bem-vindo ao meu site!
+# Ethos AT
 
-Este é o início do site do projeto **Ethos-AT** 🎯
+### Audio transcriber program powered by AI 🎯
 
 Aqui você pode encontrar informações sobre o projeto, acessar documentação e baixar o software.
 
