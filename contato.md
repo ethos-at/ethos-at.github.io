@@ -7,3 +7,5 @@ title: Contato
 
 Você pode entrar em contato por e-mail em:  
 📧 exemplo@email.com
+
+<a href="/index.html" class="btn">Home</a>

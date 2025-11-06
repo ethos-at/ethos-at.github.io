@@ -7,3 +7,5 @@ title: Sobre
 
 O **Ethos-AT** é um site em construção.  
 Mais informações em breve!
+
+<a href="/index.html" class="btn">Home</a>
