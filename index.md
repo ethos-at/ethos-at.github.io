@@ -3,11 +3,6 @@ layout: default
 title: Ethos AT
 ---
 
-{% comment %}
-<h1>{{ site.title }}</h1>
-<p>{{ site.description }}</p>
-{% endcomment %}
-
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 <!-- Botões principais -->
@@ -20,13 +15,20 @@ title: Ethos AT
   <a href="/contato.html" class="btn">Contact</a>
 </div>
 
+{% comment %}
+<h1>{{ site.title }}</h1>
+<p>{{ site.description }}</p>
+{% endcomment %}
+
 # Ethos AT
+### Audio transcriber program powered by AI 🤖
+Here you can download free software for audio transcription from open sourceAI models.
 
-### Audio transcriber program powered by AI 🎯
 
-Aqui você pode encontrar informações sobre o projeto, acessar documentação e baixar o software.
+<img src="tela_inicial.png" width=1000 align=center>
 
 <!-- Rodapé com créditos -->
 <div class="footer-credit">
-Project maintained by <a href="https://github.com/ethos-at">ethos-at</a> — Hosted on GitHub Pages — Theme by mattgraham
+Ethos AT 2025. All rights reserved. | Project maintained by <a href="https://github.com/ethos-at">ethos-at</a> | Jekyll Template: primer
 </div>
+
