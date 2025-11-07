@@ -15,10 +15,10 @@ title: Contato
   <a href="/contato.html" class="btn">Contact</a>
 </div>
 
-# Contact us
 
-e-mail:  
-📧 xxxxxx@cti.gov.br
+# About
+
+**Ethos AT** has been developed by **Centro de Tecnologia da Informação Renato Archer (CTI)**, in Brazil.
 
 <!-- Rodapé com créditos -->
 <div class="footer-credit">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contato
+title: Publications
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
@@ -15,12 +15,14 @@ title: Contato
   <a href="/contato.html" class="btn">Contact</a>
 </div>
 
-# Contact us
 
-e-mail:  
-📧 xxxxxx@cti.gov.br
+# Publications
+
+On construction
+
 
 <!-- Rodapé com créditos -->
 <div class="footer-credit">
 Ethos AT 2025. All rights reserved. | Project maintained by <a href="https://github.com/ethos-at">ethos-at</a> | Jekyll Template: primer
 </div>
+

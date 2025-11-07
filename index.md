@@ -7,11 +7,11 @@ title: Ethos AT
 
 <!-- Botões principais -->
 <div class="btn-container">
-  <a href="/sobre.html" class="btn">Home</a>
-  <a href="/contato.html" class="btn">About</a>
+  <a href="/index.html" class="btn">Home</a>
+  <a href="/about.html" class="btn">About</a>
   <a href="/download.html" class="btn">Download</a>
-  <a href="/documentacao.html" class="btn">Documentation</a>
-  <a href="/publicacao.html" class="btn">Publication</a>
+  <a href="/documentation.html" class="btn">Documentation</a>
+  <a href="/publication.html" class="btn">Publication</a>
   <a href="/contato.html" class="btn">Contact</a>
 </div>
 
@@ -22,7 +22,7 @@ title: Ethos AT
 
 # Ethos AT
 ### Audio transcriber program powered by AI 🤖
-Here you can download free software for audio transcription from open sourceAI models.
+Here you can download free software for audio transcription from open source AI models.
 
 
 <img src="tela_inicial.png" width=1000 align=center>
