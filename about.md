@@ -18,7 +18,7 @@ title: Contato
 
 # About
 
-**Ethos AT** has been developed by **Centro de Tecnologia da Informação Renato Archer (CTI)**, in Brazil.
+**Ethos AT** has been developed by **Center for Information Technology Renato Archer (CTI Renato Archer)**, in Brazil.
 
 <!-- Rodapé com créditos -->
 <div class="footer-credit">

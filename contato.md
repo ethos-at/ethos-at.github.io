@@ -18,7 +18,9 @@ title: Contato
 # Contact us
 
 e-mail:  
-📧 xxxxxx@cti.gov.br
+📧 Edgleide de Oliveira Clemente da Silva - eosilva@cti.gov.br \\
+📧 Fernando Rezende Zagatti - fzagatti@cti.gov.br \\
+📧 Filipe Loyola Lopes - flopes@cti.gov.br
 
 <!-- Rodapé com créditos -->
 <div class="footer-credit">
