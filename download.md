@@ -17,7 +17,13 @@ title: Sobre
 
 # Download
 
-<p>Download the latest version of Ethos AT:</p>
+## Download the latest version of Ethos AT:
+
+<a href="https://github.com/ethos-at/ethos-at.github.io/releases/download/v0.1.1/Ethos.AT.0.1.1.zip" class="download-btn">
+Download Ethos AT v0.1.1
+</a>
+
+## Download the oldest versions of Ethos AT:
 
 <a href="https://github.com/ethos-at/ethos-at.github.io/releases/download/v0.1/Ethos.AT.zip" class="download-btn">
 Download Ethos AT v0.1
